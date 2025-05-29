@@ -6,6 +6,7 @@
 function App() {
   return (
     <>
+      <h1>Home page</h1>
       <p className="read-the-docs">React App with Vite test123</p>
     </>
   );
